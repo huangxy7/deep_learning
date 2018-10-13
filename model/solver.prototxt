@@ -1,0 +1,18 @@
+test_iter: 94 #not subject to iter_size
+test_interval: 200
+base_lr: 0.002
+display: 40
+max_iter: 170000
+iter_size: 1 #16 #global batch size = batch_size * iter_size
+lr_policy: "poly"
+power: 1.0 #linearly decrease LR
+momentum: 0.9
+weight_decay: 0.0002
+snapshot: 1000
+snapshot_prefix: "/home/jsj/xytest/model/data/snapshot/xy_train_squeezenet_scratch_"
+solver_mode: CPU
+random_seed: 42
+net: "train_val.prototxt" #we typically do `cd SqueezeNet_v1.0; caffe train <args>` 
+test_initialization: false
+average_loss: 40
+snapshot_after_train: true

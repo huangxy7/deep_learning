@@ -1,0 +1,14 @@
+null_0097.jpg 0 0
+red_0018.jpg 1 1
+red_0081.jpg 1 1
+red_0082.jpg 1 1
+red_0083.jpg 1 0
+red_0084.jpg 1 1
+red_0085.jpg 1 1
+red_0086.jpg 1 1
+red_0087.jpg 1 1
+red_0088.jpg 1 1
+red_0089.jpg 1 1
+red_0090.jpg 1 1
+red_0091.jpg 1 1
+red_0092.jpg 1 1
